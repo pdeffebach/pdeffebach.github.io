@@ -9,4 +9,4 @@ I am a PhD student in economics at Boston University. I will be on the market in
 **Contact information:**
 * peterwd@bu.edu
 * [Google Scholar Profile](https://scholar.google.com/citations?user=zMlunv0AAAAJ&hl=en)
-* CV
+* [CV](/cv/cv_deffebach.pdf)
