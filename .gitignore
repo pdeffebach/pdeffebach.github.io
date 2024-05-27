@@ -2,3 +2,20 @@ __site/
 .DS_Store
 node_modules/
 package-lock.json
+
+.DS_Store
+*.dta
+
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
