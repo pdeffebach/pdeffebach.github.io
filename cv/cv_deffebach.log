@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.16)  27 MAY 2024 15:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.16)  27 MAY 2024 17:11
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -606,7 +606,7 @@ Package rerunfilecheck Info: File `cv_deffebach.out' has not changed.
 Here is how much of TeX's memory you used:
  10347 strings out of 480171
  161270 string characters out of 5894489
- 455466 words of memory out of 5000000
+ 456466 words of memory out of 5000000
  28146 multiletter control sequences out of 15000+600000
  496590 words of font info for 61 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
@@ -616,7 +616,7 @@ exlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.600pk></usr/share/tex
 live/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/urw/ncntrsbk/uncr8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/ncntrsbk/uncri8a.pfb>
-Output written on cv_deffebach.pdf (1 page, 49389 bytes).
+Output written on cv_deffebach.pdf (1 page, 49492 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream

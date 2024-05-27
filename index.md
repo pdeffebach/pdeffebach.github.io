@@ -1,23 +1,12 @@
 @def title = "Peter Deffebach's Website"
 
-# Peter Deffebach
+## About me
 
 I am a PhD student in economics at Boston University. I will be on the academic job market in 2024-2025. 
 
 **Main fields:** Development, Macroeconomics, and Urban Economics. 
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=zMlunv0AAAAJ&hl=en)
-
-
-~~~
-<a href="/cv/cv_deffebach.pdf" target="_blank">CV</a><br>
-
-~~~
-
-
-`peterwd@bu.edu`
-
-# Research
+## Research
 
 #### Working papers
 

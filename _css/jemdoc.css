@@ -372,9 +372,9 @@ span.string > * {
   margin-bottom: 0.5em;
 }
 
-#layout-content h1:first-child,
-#layout-content h2:first-child,
-#layout-content h3:first-child {
+#layout-content h1,
+#layout-content h2,
+#layout-content h3 {
   margin-top: -0.7em;
 }
 
