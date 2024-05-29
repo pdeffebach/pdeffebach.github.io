@@ -12,7 +12,7 @@ I am a PhD student in economics at Boston University. I will be on the academic 
 
 #### Published papers
 
-**[Training microentrepreneurs over Zoom: Experimental evidence from Mexico](https://doi.org/10.1016/j.jdeveco.2023.103244)**
+[**Training microentrepreneurs over Zoom: Experimental evidence from Mexico**](/papers/mexico.pdf) [(Journal link)](https://doi.org/10.1016/j.jdeveco.2023.103244)
 
 with [David McKenzie](https://sites.google.com/site/decrgdmckenzie/), Elwyn Davies, and Leonardo Iacovone
 
