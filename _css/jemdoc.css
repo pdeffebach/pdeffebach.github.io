@@ -90,10 +90,10 @@ a > tt {
   color: #224b8d;
   text-decoration: none;
 }
-
+/*
 a:hover {
   border-bottom: 1px gray dotted;
-}
+}*/
 
 #layout-menu a.current:link,
 #layout-menu a.current:visited {
@@ -448,10 +448,10 @@ a > tt {
   color: #305080;
 }
 
-a:hover {
+/*a:hover {
   border-bottom: 1px #305080 dotted;
 }
-
+*/
 div#toptitle {
   margin-bottom: 1.3em;
   border-bottom: 1px solid #c0c0c0;
