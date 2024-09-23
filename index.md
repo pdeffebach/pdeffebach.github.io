@@ -18,7 +18,14 @@ with [David McKenzie](https://sites.google.com/site/decrgdmckenzie/), Elwyn Davi
 
 *Journal of Development Economics* (2024)
 
-**Abstract:** Standard in-person business training programs are costly and difficult to scale to the millions of microenterprises in the developing world. We conduct an experiment to test the feasibility, cost-savings, and impact of delivering live training sessions over Zoom to microentrepreneurs in Mexico and Guatemala. We demonstrate that it is now feasible to both recruit and train self-employed women online, covering a wide geographic area, with few technology issues. However, the cost-savings over in-person classes are less than expected. Training improved business practices and performance over 2 months, but impacts had dissipated within 6 months.
+~~~
+<details>
+<summary>Abstract</summary>
+<p>
+Standard in-person business training programs are costly and difficult to scale to the millions of microenterprises in the developing world. We conduct an experiment to test the feasibility, cost-savings, and impact of delivering live training sessions over Zoom to microentrepreneurs in Mexico and Guatemala. We demonstrate that it is now feasible to both recruit and train self-employed women online, covering a wide geographic area, with few technology issues. However, the cost-savings over in-person classes are less than expected. Training improved business practices and performance over 2 months, but impacts had dissipated within 6 months.
+</p>
+</details>
+~~~
 
 #### Works in Progress
 
