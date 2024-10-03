@@ -2,6 +2,7 @@
 % set the font
 \usepackage[T1]{fontenc}
 \usepackage{libertine}
+\usepackage{inconsolata}
 % set spacing for section titling
 \usepackage{setspace}
 % Make sure you can use accents
@@ -21,10 +22,14 @@
 {\end{itemize} }
 \usepackage{bibentry}
 
+\usepackage[dvipsnames]{xcolor}
 \usepackage{hyperref}
-
-\usepackage[dvipsnames]{color}
-
+\hypersetup{
+  colorlinks   = true, 
+  urlcolor     = BrickRed,
+  linkcolor    = BrickRed, 
+  citecolor   = BrickRed 
+}
 % For my citations
 \usepackage[round]{natbib}
 \bibliographystyle{plainnat}
@@ -35,17 +40,6 @@
 
 \usepackage{bibentry}
 \nobibliography*
-
-\makeatletter
-\let\old@rule\@rule
-\def\@rule[#1]#2#3{\textcolor{rulecolor}{\old@rule[#1]{#2}{#3}}}
-\makeatother
-\definecolor{rulecolor}{named}{Black}
-
-\hypersetup{
-    colorlinks=true,    
-    urlcolor=blue
-    }
 
 \begin{document}
 \normalsize
