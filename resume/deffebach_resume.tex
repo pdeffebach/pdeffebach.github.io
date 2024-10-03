@@ -1,4 +1,4 @@
-\documentclass[10pt]{article}
+\documentclass[10.5pt]{article}
 % set the font
 \usepackage[T1]{fontenc}
 \usepackage{libertine}
@@ -11,14 +11,16 @@
   citecolor   = BrickRed 
 }
 
+\usepackage{inconsolata}
+
 % set spacing for section titling
 \usepackage{setspace}
 % Make sure you can use accents
 %\usepackage[spanish]{babel}
 % set the margins
 \usepackage[
-            left=0.5in,
-            right=0.5in,
+            left=0.4in,
+            right=0.4in,
             top=0.3in,
             bottom=0.5in]{geometry}
 
@@ -36,7 +38,7 @@
 \titleformat{\section}
   {\normalfont\fontsize{12}{10}\bfseries}{\thesection}{}{}
 
-\usepackage[dvipsnames]{color}
+\usepackage[dvipsnames]{xcolor}
 
 % For my citations
 \usepackage[round]{natbib}
@@ -70,11 +72,11 @@
 \vspace{-12pt}
 \section*{\sc{Education}}
 \noindent \rule{\textwidth}{1pt} 
-\noindent {\textbf{Boston University, PhD in Economics}}  \hfill Expected June 2025
+\noindent {\textbf{Boston University, PhD in Economics}}  \hfill Expected Jun 2025
 \begin{customitemize}
 	\item Development, Macroeconomics, and Urban Economics $\big |$ Advised by David Lagakos, Yuhei Miyauchi, and Masao Fukui
 \end{customitemize}
-\noindent {\textbf{Princeton University, AB in Economics}}  \hfill June 2017
+\noindent {\textbf{Princeton University, AB in Economics}}  \hfill Sep 2013 -- Jun 2017
 \begin{customitemize}
 	\item Economics Major, Spanish Minor, \textit{Cum laude}
 \end{customitemize}
@@ -89,7 +91,7 @@
 \noindent {\textbf{Development and the Spatial Distribution of Income in Cities} (With D. Lagakos, Y. Miyauchi, and E. Yamada)} 
 \begin{customitemize}
 	\item Methods: Agglomerated 30 person-level travel surveys from developing countries in Stata. Compared with administrative geo-spatial data in R. Built a quantitative urban spatial modeling in Julia
-	\item Findings: Cities in poor vs. rich countries have different income sorting patterns, driven by differences in underlying state capacity
+	\item Findings: Cities in poor vs. rich countries have different income sorting patterns, driven by differences in state capacity
 \end{customitemize}
 \noindent {\textbf{Training Microentrepreneurs over Zoom: Experimental Evidence from Mexico} (With D. McKenzie, E. Davies, and L. Iacovone)} 
 \begin{customitemize}
@@ -101,20 +103,7 @@
 \section*{\sc{Work Experience}} 
 \noindent \rule{\textwidth}{1pt} 
 
-\noindent \textbf{Short Term Consultant --- Poverty and Equity Global Practice Group at The World Bank}  \hfill 2023--2024
-\begin{customitemize}
-	\item Measured increases in poverty between 2019 and 2023 in Sri Lanka using the SWIFT poverty diagnostic tool set
-	\item Employed machine learning techniques in Stata to predict household poverty across surveys and years
-\end{customitemize}
-
-\noindent \textbf{Teaching Assistant --- Professor Yuhei Miyauchi at Boston University}  \hfill 2022--2023
-\begin{customitemize}
-	\item Served as TA twice for first year PhD course on computational methods. 
-	\item Led recitations and office hours as only TA. Used GitHub Classroom to grade and give individual feedback via code reviews
-	\item Taught students R, terminal, Git and Github, High Performance Cluster use, as well as computational methods such as optimization, iterative methods, dynamic programming, and bootstrapping 
-\end{customitemize}
-
-\noindent \textbf{Research Assistant --- Professor Yuhei Miyauchi at Boston University}  \hfill 2020--present 
+\noindent \textbf{Research Assistant --- Prof. Yuhei Miyauchi at Boston University}  \hfill Jul 2020--present 
 \begin{customitemize}
 	\item Managed a rotating team of four Master's degree students, teaching data analysis skills to each cohort
 	\item Processed raw high-frequency smartphone location data into aggregate form to understand mobility patterns using R
@@ -123,22 +112,35 @@
 	\item Project currently Reject and Resubmit, \textit{Quarterly Journal of Economics}
 \end{customitemize}
 
-\noindent \textbf{Student Ambassador --- Research Computing Services at Boston University}  \hfill 2022
+\noindent \textbf{Short Term Consultant --- Poverty and Equity Global Practice Group at The World Bank}  \hfill Jul 2023 -- Feb 2024
+\begin{customitemize}
+	\item Measured increases in poverty between 2019 and 2023 in Sri Lanka using the SWIFT poverty diagnostic tool set
+	\item Employed machine learning techniques in Stata to predict household poverty across surveys and years
+\end{customitemize}
+
+\noindent \textbf{Teaching Assistant --- Prof. Yuhei Miyauchi at Boston University}  \hfill Sep 2022 -- Jan 2023
+\begin{customitemize}
+	\item Served as TA twice for first year PhD course on computational methods. 
+	\item Led recitations and office hours as only TA. Used GitHub Classroom to grade and give individual feedback via code reviews
+	\item Taught students R, terminal, Git and Github, High Performance Cluster use, as well as computational methods such as optimization, iterative methods, dynamic programming, and bootstrapping 
+\end{customitemize}
+
+\noindent \textbf{Student Ambassador --- Research Computing Services at Boston University}  \hfill Sep 2022 -- Sep 2023
 \begin{customitemize}
 	\item Met with students to begin and improve cluster-based workflows. Trained in HPC use by RCS staff
 \end{customitemize}
 
-\noindent \textbf{Research Assistant --- Institute for Economic Development at Boston University}  \hfill 2021--2022
+\noindent \textbf{Research Assistant --- Institute for Economic Development at Boston University}  \hfill Jun 2022 -- Aug 2023
 \begin{customitemize}
-	\item Produced annual summary of all Development Economics research at Boston University for the Annual IED Research Review
-	\item Summarized 20 papers each year for a general audience. Corresponded with authors to ensure papers were correctly represented
+	\item Produced annual summary of all Development Economics research at Boston University for annual IED Research Review
+	\item Summarized 20 papers each year for a general audience. Worked with authors to ensure papers were correctly represented
 \end{customitemize}
 
-\noindent \textbf{Research Associate --- Professor Chris Blattman at U. of Chicago and Innovations for Poverty Action}  \hfill 2017--2020 
+\noindent \textbf{Research Associate --- Prof. Chris Blattman at U. of Chicago and Innovations for Poverty Action}  \hfill Jun 2017-- Jun 2019 
 \begin{customitemize}
-	\item Worked with household survey data, administrative crime data, censuses, GIS, and qualitative interviews in Stata, R, Python, and Matlab. Studied policy experiments with randomization inference, synthetic control, and partial identification
+	\item Analyzed household survey data, administrative crime data, censuses, GIS, and qualitative interviews in Stata, R, Python, and Matlab. Studied policy experiments with randomization inference, synthetic control, and partial identification
 	\item Managed a team of Master's students to set project timelines and ensure code quality 
-	\item Traveled to Colombia to design and pilot surveys on the role of criminal gangs in the daily life of lower-income neighborhoods in Medellin. Met with policymakers and academics to design a non-policing intervention to improve security in Medellin
+	\item Traveled to Colombia to design and pilot surveys on role of criminal gangs in daily life of lower-income neighborhoods in Medellin. Met with policymakers and academics to design a non-policing intervention to improve security in Medellin
 	\item Projects published in \textit{The Review of Economic Studies}, \textit{American Economic Review: Insights}, \textit{The Journal of Development Economics}, and \textit{The Journal of the European Economic Association}
 \end{customitemize}
 
