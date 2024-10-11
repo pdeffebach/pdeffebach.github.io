@@ -4,24 +4,39 @@
 \usepackage{libertine}
 \usepackage{inconsolata}
 
+\usepackage{fancyhdr}
+
 % set spacing for section titling
 \usepackage{setspace}
 % Make sure you can use accents
 %\usepackage[spanish]{babel}
 % set the margins
-\usepackage[margin=.6in]{geometry}
+\usepackage[margin=1in]{geometry}
 % Adjust title and section spacing
 \usepackage{titling}
 \usepackage{titlesec}
 \setlength{\droptitle}{-10em}
 % before and after sections
-\titlespacing\section{0pt}{2pt plus 2pt minus 2pt}{-5pt plus 2pt minus 2pt}
+\titlespacing\section{0pt}{5pt}{2pt}
 % Fix the spacing with itemize
 \usepackage{enumitem}
 \newenvironment{customitemize}
-{ \begin{itemize}[leftmargin=\parindent, topsep = 1pt, itemsep = -1pt] }
+{ \begin{itemize}[
+	leftmargin=\parindent,
+	itemindent=-0.5\parindent,
+	topsep = 0pt, 
+	itemsep = -1pt, 
+	label={}] }
 {\end{itemize} }
 \usepackage{bibentry}
+
+\usepackage{graphicx}
+
+\titleformat{\section}{\normalfont\fontsize{14}{1}\scshape\bfseries}{}{}{}[]
+
+\pagestyle{fancy}
+
+\fancyhead[HR]{\textbf{Peter Deffebach}}
 
 \usepackage[dvipsnames]{xcolor}
 \usepackage{hyperref}
@@ -46,68 +61,59 @@
 \normalsize
 \singlespacing
 
+\thispagestyle{plain}
+
 
 \newcommand{\link}[2]{{\color{blue}\href{#1}{#2}}}
 
-\section*{\centering \sc{Peter Deffebach}} 
-\begin{center}
-\rule{3in}{1pt} \\
-\vspace*{0.1in}
-
-\begin{minipage}[t]{3in}
-\textbf{Contact information:} \\
-\texttt{peterwd@bu.edu} \\
-\texttt{503-853-6255} \\
-\href{https://pdeffebach.github.io/}{\texttt{pdeffebach.github.io}} \end{minipage}
-\hfill
-\begin{minipage}[t]{2.0in}
-\textbf{Address:}\\
-Boston University \\
-Department of Economics \\
+\noindent{\Large{\textbf{\sc{Peter Deffebach}}}} \\
+Boston University Department of Economics \\
 270 Bay State Road, \\
-Boston, MA 0221
-\end{minipage}
+Boston, MA 0221 \\
+Email: \texttt{peterwd@bu.edu} \\
+Cell: \texttt{503-853-6255} \\
+Website: \href{https://pdeffebach.github.io/}{\texttt{pdeffebach.github.io}} \\
+\rule{\textwidth}{1pt}
+\section*{Education}
 
-\end{center} 
-
-\section*{\sc{Education}}
-\noindent \rule{\textwidth}{1pt} 
-\noindent {\textbf{Boston University}, Boston, MA}  \hfill 2019-present 
 \begin{customitemize}
-	\item Masters in Economics (2022)
-	\item PhD in Economics (in progress)
+\item PhD, Economics, Boston University, Boston, MA  \hfill Expected 2025 
+\begin{customitemize}
+\item Dissertation title: Labor Market Churn, Development, and Quits: Evidence from Urban Ghana 
+\item Main advisor: David Lagakos 
+\item Dissertation Committee: David Lagakos, Yuhei Miyauchi, and Masao Fukui 
 \end{customitemize}
-\noindent {\textbf{Princeton University}, Princeton, NJ}  \hfill 2013-2017 
-\begin{customitemize}
-	\item AB in Economics (\emph{cum laude}); Minor in Spanish
+\item AB, Economics, Princeton University, Princeton, NJ  \hfill 2017
 \end{customitemize}
-
-\section*{\sc{Fields of interest}}
-\noindent \rule{\textwidth}{1pt} 
+\section*{Fields of interest}
 
 \begin{customitemize}
-	\item Macroeconomics of Development, Urban Economics, Labor Economics
+\item Macroeconomics of Development, Urban Economics, Labor Economics
 \end{customitemize}
 
 
-\section*{\sc{Published Papers}}
-\noindent \rule{\textwidth}{1pt} 
+\section*{Publications}
+
 \begin{customitemize}
 	\item \bibentry{mexico}
 \end{customitemize}
 
-\section*{\sc{Working Papers}}
-\noindent \rule{\textwidth}{1pt} 
+\section*{Working Papers}
+\vspace{5pt}
 
-\section*{\sc{Works in Progress}}
-\noindent \rule{\textwidth}{1pt} 
+\section*{Works in Progress}
+
 \begin{customitemize}
 	\item Quits in a Low-Income Urban Labor Market: Evidence from Ghana (Job Market Paper)
 	\item Economic Development and the Spatial Distribution of Income in Cities, with David Lagakos, Yuhei Miyauchi, and Eiji Yamada
 \end{customitemize}
 
-\section*{\sc{Research Grants}}
-\noindent \rule{\textwidth}{1pt} 
+\section*{Presentations}
+\vspace{5pt}
+
+
+\section*{Fellowships and Awards}
+
 
 \begin{customitemize}
 	\item International Growth Centre (IGC) Small Research Grant (\textsterling 20,000) \hfill 2022
@@ -115,20 +121,74 @@ Boston, MA 0221
 	\item International Growth Centre (IGC) Full Research Grant (\textsterling 44,000) \hfill 2023
 \end{customitemize}
 
-\section*{\sc{Refereeing}}
-\noindent \rule{\textwidth}{1pt} 
+\section*{Refereeing}
+
 
 \begin{customitemize}
 	\item Journal of Development Economics
 	\item Review of Economic Dynamics
 \end{customitemize}
 
-\section*{\sc{Teaching}}
-\noindent \rule{\textwidth}{1pt} 
+\section*{Teaching Experience}
+
 \begin{customitemize}
-	\item Instructor, Introduction to Mathematical and Computational Economics (Graduate) \hfill 2021, 2022
+	\item Teaching Assistant, Introduction to Mathematical and Computational Economics (Graduate), Department of Economics, Boston University \hfill 2021, 2022
 \end{customitemize}
 
+\section*{Laguages}
+\begin{customitemize}
+\item English (native), Spanish (fluent)
+\end{customitemize}
+
+\section*{Computer skills}
+\begin{customitemize}
+\item Julia, R, Stata, GIS, Matlab, Python
+\end{customitemize}
+
+\section*{Citizenship}
+\begin{customitemize}
+\item USA
+\end{customitemize}
+
+\section*{References}
+\begin{minipage}{0.3\textwidth}
+\textbf{David Lagakos} \\
+Department of Economiics,  \\
+Boston University \\
+Phone: \texttt{617-353-8903} \\
+Email: \texttt{lagakos@bu.edu}
+\end{minipage}
+~
+\begin{minipage}{0.3\textwidth}
+\textbf{Yuhei Miyauchi} \\
+Department of Economiics,  \\
+Boston University \\
+Phone: \texttt{617-353-5682} \\
+Email: \texttt{miyauchi@bu.edu}
+\end{minipage}
+~
+\begin{minipage}{0.3\textwidth}
+\textbf{Masao Fukui} \\
+Department of Economiics, \\
+Boston University \\
+Phone: \texttt{857-500-3712} \\
+Email: \texttt{mfukui@bu.edu} 
+\end{minipage}
+
+\newpage
+\thispagestyle{plain}
+\noindent{\Large{\textbf{\sc{Peter Deffebach}}}} \\
+\rule{\textwidth}{1pt}
+
+\noindent \textbf{Quits in a Low-Income Urban Labor Market: Evidence from Ghana} (Job Market Paper)
+\vspace{5pt}\\
+\noindent Why are rates of wage employment so low in poor countries? I conduct a panel survey of job-seekers and a survey of firms in urban Ghana to explore labor market dynamics in depth. I document entry rates into employment are equal between the US and Ghana, but high exit rates mean Ghanaian job-seekers are only half as successful at finding wage work in the long run. In Ghana, I find exits are dominated by quits, while layoffs play a negligible role, in strong contrast with the USA, where layoffs dominate, and quits are infrequent. I examine, and reject, informational frictions as a key driver of high quit rates and show self-employment at most a moderate role. I show quits are most common among individuals who at Baseline are temporarily without flows of non-wage income. To quantify the contribution of changing non-wage income in driving quitting behavior, I build model of job search in which workers face uncertain non-wage income and accept and quit jobs to cope with temporary losses in income. I conclude 20 percent of the difference in exit rates between the USA and Ghana can be attributed to this mechanism.\\
+\vspace*{5pt}
+
+
+\noindent \textbf{Economic Development and the Spatial Distribution of Income in Cities} with David Lagakos, Yuhei Miyauchi, Eiji Yamada
+\vspace{5pt}\\
+\noindent We draw on new granular data from cities around the world to study how the spatial distribution of income within cities varies with development. We document that in less-developed countries, average incomes of urban residents decline monotonically in distance to the city center, whereas income-distance gradients are flat or increasing in developed economies. We also show that urban neighborhoods with natural amenities  -- in hills and near rivers -- are poorer than average in less-developed countries and richer than average in developed ones. We hypothesize that these patterns arise due to the differences in the provision of residential and transportation infrastructure within cites. Using a quantitative urban model, we show that observed differences in residential and transportation infrastructure help explain a significant fraction of how the spatial income distribution within cities varies with income per capita.
 
 \nobibliography{cv_bib}
 
