@@ -10,6 +10,10 @@ I am a PhD student in economics at Boston University. I will be on the academic 
 
 #### Working papers
 
+[**Subsistence Wage Employment: Labor Market Dynamics in Urban Ghana**](/papers/deffebach_jmp.pdf))(Job Market Paper)
+
+The share of workers in wage employment is low in developing countries. Recent research argues high exit rates out of wage employment, rather than low entry rates, drive low rates of wage work overall. I conduct a panel survey of job-seekers and a survey of firms in urban Ghana to explore why rates of exit out of wage employment are so high in poor countries. I document entry rates into employment are equal between the US and Ghana, but high exit rates mean Ghanaian job-seekers are only half as successful at finding wage work in the long run. In Ghana, I find exits are dominated by quits, while layoffs play a negligible role, in strong contrast with the USA, where layoffs dominate, and quits are infrequent. I examine, and reject, informational frictions as a key driver of high quit rates and show self-employment at most a moderate role. I show quits are most common among individuals who at Baseline are temporarily without flows of non-wage income. To quantify the contribution of changing non-wage income in driving quitting behavior, I build a model of job search in which workers face uncertain non-wage income and accept and quit jobs to cope with temporary losses in income. When calibrated to match experience of job-seekers in both the USA and Ghana, my model attributes 20\% of the difference in exit rates to this mechanism. I conclude in poor countries, wage jobs can act as insurance against risk outside the wage sector. 
+
 #### Published papers
 
 [**Training microentrepreneurs over Zoom: Experimental evidence from Mexico**](/papers/mexico.pdf) [(Journal link)](https://doi.org/10.1016/j.jdeveco.2023.103244)
