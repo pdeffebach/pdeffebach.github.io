@@ -40,8 +40,6 @@ Standard in-person business training programs are costly and difficult to scale 
 
 #### Works in Progress
 
-**Quits in a Low-Income Urban Labor Market: Evidence from Ghana** (Job market paper)
-
 **Economic Development and the Spatial Distribution of Income in Cities**
 
 with [David Lagakos](https://sites.google.com/site/davidlagakos/), [Yuhei Miyauchi](https://sites.google.com/view/yuhei-miyauchi/home), and Eiji Yamada
