@@ -6,6 +6,8 @@ I am a PhD student in economics at Boston University. I will be on the academic 
 
 **Main fields:** Development, Macroeconomics, and Urban Economics. 
 
+See my [CV](/cv/cv_deffebach.pdf) and [Job Market Paper](/papers/deffebach_jmp.pdf)
+
 ## Research
 
 #### Working papers
