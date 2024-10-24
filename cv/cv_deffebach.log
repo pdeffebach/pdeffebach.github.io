@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.16)  18 OCT 2024 11:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.16)  24 OCT 2024 11:40
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -480,13 +480,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 155.
+(Font)              scaled to size 12.0pt on input line 151.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sl' in size <12> not a
 vailable
 (Font)              Font shape `T1/LinuxLibertineT-TLF/m/it' tried instead on i
-nput line 178.
+nput line 174.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 178.
+(Font)              scaled to size 12.0pt on input line 174.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -503,7 +503,7 @@ Package rerunfilecheck Info: File `cv_deffebach.out' has not changed.
 Here is how much of TeX's memory you used:
  12034 strings out of 480171
  195123 string characters out of 5894489
- 494700 words of memory out of 5000000
+ 495700 words of memory out of 5000000
  29801 multiletter control sequences out of 15000+600000
  510844 words of font info for 52 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
@@ -518,7 +518,7 @@ f-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr/share/texlive/texmf-dist
 onts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on cv_deffebach.pdf (3 pages, 278774 bytes).
+Output written on cv_deffebach.pdf (3 pages, 278752 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream
