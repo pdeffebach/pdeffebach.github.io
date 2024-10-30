@@ -12,7 +12,7 @@ See my [CV](/cv/cv_deffebach.pdf) and [Job Market Paper](/papers/deffebach_jmp.p
 
 #### Working papers
 
-[**Subsistence Wage Employment: Labor Market Dynamics in Urban Ghana**](/papers/deffebach_jmp.pdf) (Job Market Paper) [(Slides)](/papers/deffebach_pres.pdf) 
+[**Subsistence Wage Employment: Labor Market Dynamics in Urban Ghana**](/papers/deffebach_jmp.pdf) (Job Market Paper)
 
 ~~~
 <details href="#">
