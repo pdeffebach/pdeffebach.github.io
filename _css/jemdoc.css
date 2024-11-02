@@ -104,6 +104,18 @@ a:hover {
   text-decoration: none;
 }
 
+/*
+code, pre, tt, kbd, samp {
+  background: ;
+  color: "black";
+  font-family: "Noto Sans Mono", monospace;
+}
+*/
+
+pre {
+    display: inline;
+    margin: 0;
+}
 
 #layout-menu a.current:link {
   color: #000070;
