@@ -97,6 +97,14 @@ a:hover {
   border-bottom: 1px gray dotted;
 }*/
 
+a:link,
+a:visited,
+a:hover {
+  color: #000070;
+  text-decoration: none;
+}
+
+
 #layout-menu a.current:link {
   color: #000070;
   border-bottom: 1px gray solid;
