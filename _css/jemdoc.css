@@ -31,7 +31,7 @@
 }
 
 body {
-  background: white;
+  background: #f5e7b8;
   font-family: Georgia, "Bitstream Charter", "Charis SIL", Utopia, "URW Bookman L", serif;
   padding-bottom: 8px;
   margin: 0;
@@ -89,7 +89,7 @@ tt {
 
 a,
 a > tt {
-  color: #224b8d;
+  color: #000070;
   text-decoration: none;
 }
 /*
@@ -97,16 +97,19 @@ a:hover {
   border-bottom: 1px gray dotted;
 }*/
 
-#layout-menu a.current:link,
+#layout-menu a.current:link {
+  color: #000070;
+  border-bottom: 1px gray solid;
+}
 #layout-menu a.current:visited {
-  color: #022b6d;
+  color: #000070;
   border-bottom: 1px gray solid;
 }
 
 #layout-menu a:link,
 #layout-menu a:visited,
 #layout-menu a:hover {
-  color: #527bbd;
+  color: #000070;
   text-decoration: none;
 }
 
@@ -294,7 +297,6 @@ p + div.codeblock {
 }
 
 p.abstract {
-  background: #d9dbda;
   line-height: 1.6;
 }
 
@@ -477,7 +479,7 @@ h2,
 h3,
 #layout-menu a.current:link,
 #layout-menu a.current:visited {
-  color: #203060;
+  color: #000070;
 }
 
 h1,
