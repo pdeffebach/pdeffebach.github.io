@@ -23,6 +23,18 @@ The share of workers in wage employment is low in developing countries. Recent r
 </details>
 ~~~
 
+[**The Spatial Distribution of Income in Cities: New Global Evidence and Theory**](/papers/cities.pdf) with [David Lagakos](https://sites.google.com/site/davidlagakos/), [Yuhei Miyauchi](https://sites.google.com/view/yuhei-miyauchi/home), and Eiji Yamada 
+
+~~~
+<details href="#">
+<summary>Abstract</summary>
+<p class="abstract">
+How does the spatial distribution of income in cities vary with income per capita? We address this question using new granular evidence from 127 cities in 26 developed and less-developed countries. We document that household income levels decline significantly more rapidly with distance to city centers in less-developed countries. Urban neighborhoods with natural amenities—particularly hills and rivers—are poorer than average in less-developed nations but richer than average in developed ones. We evaluate potential explanations for these patterns using a quantitative spatial model disciplined by commuting gravity equations that we estimate for each city. We find that the spatial income patterns are largely explained by nonhomothetic preferences over amenities, coupled with higher commuting costs and spatially more concentrated jobs in less developed cities. Our model predicts unequal welfare gains across households as citywide income increases.
+</p>
+</details>
+~~~
+
+
 #### Published papers
 
 [**Training microentrepreneurs over Zoom: Experimental evidence from Mexico**](/papers/mexico.pdf) [(Journal link)](https://doi.org/10.1016/j.jdeveco.2023.103244)
@@ -39,9 +51,3 @@ Standard in-person business training programs are costly and difficult to scale 
 </p>
 </details>
 ~~~
-
-#### Works in Progress
-
-**Economic Development and the Spatial Distribution of Income in Cities**
-
-with [David Lagakos](https://sites.google.com/site/davidlagakos/), [Yuhei Miyauchi](https://sites.google.com/view/yuhei-miyauchi/home), and Eiji Yamada
