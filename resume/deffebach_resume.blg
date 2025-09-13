@@ -1,12 +1,12 @@
-This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: deffebach_resume.aux
 The style file: plainnat.bst
 I found no \citation commands---while reading file deffebach_resume.aux
-Database file #1: ../bibliography.bib
+I found no \bibdata command---while reading file deffebach_resume.aux
 You've used 0 entries,
             2773 wiz_defined-function locations,
-            592 strings with 4863 characters,
+            591 strings with 4844 characters,
 and the built_in function-call counts, 33 in all, are:
 = -- 0
 > -- 0
@@ -45,4 +45,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 0
 write$ -- 7
-(There was 1 error message)
+(There were 2 error messages)
